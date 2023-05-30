@@ -1,0 +1,17 @@
+a. Planned Functionalities:
+
+Creation of customers, articles, and sales invoices.
+Establishing relationships between sales invoices, customers, and articles.
+Retrieval of customer information, article information, and sales invoices.
+b. Realized Functionalities:
+
+Creation of customers, articles, and sales invoices.
+Establishment of relationships between sales invoices, customers, and articles.
+Retrieval of customer information, article information, and sales invoices.
+c. Ideas for the Future:
+
+Adding additional features like updating and deleting customer, article, and sales invoice records.
+Implementing search and filtering capabilities for customer, article, and sales invoice data.
+Enhancing user interface and user experience.
+Implementing authentication and authorization for secure access to the application.
+Generating reports and analytics based on sales data.
